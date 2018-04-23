@@ -1,3 +1,3 @@
 disp('blue1');
-disp('orange2');
+disp('blue2');
 disp('mastert3');
