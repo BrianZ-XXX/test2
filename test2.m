@@ -1,3 +1,3 @@
-disp('orange1');
-disp('orange2');
-disp('orange3');
+disp('blue1');
+disp('blue2');
+disp('blue3');
