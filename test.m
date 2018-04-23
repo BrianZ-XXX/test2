@@ -21,7 +21,7 @@ disp('注意！');
 disp('下面输入的数据应该为矩阵或向量形式！');
 %Tao = input('\n请键入数据流的总数：\nτ = ');
 %}
-Tao = input('just input');
+Tao = 2
 %{
 global I;
 I = xlsread('data',1,'C2');  %I是被研究数据流的角标，也就是在数据流其中的位置。
