@@ -1,5 +1,3 @@
-disp('mastert1');
-disp('mastert2');
-disp('mastert3');
-disp('mastert4');
-disp('mastert5');
+disp('orange1');
+disp('orange2');
+disp('orange3');
